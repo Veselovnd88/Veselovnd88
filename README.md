@@ -2,6 +2,9 @@ Hello, I'm Veselov Nikolay - Java Developer from Moscow;  👋 <br>
 Passionate about develpment application with Java using modern stack and instruments; <br>
 [Contact me in Telegram](https://t.me/VeselovND) <br>
 <b>My stack:</b><br>
+![Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
+![Spring](https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
