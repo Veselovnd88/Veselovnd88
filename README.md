@@ -1,6 +1,6 @@
 Hello, I'm Veselov Nikolay - Java Developer from Moscow;  👋 <br>
 Passionate about develpment application with Java using modern stack and instruments; <br>
-[Telegram](https://t.me/@VeselovND) <br>
+[Contact me in Telegram](https://t.me/VeselovND) <br>
 <b>My stack:</b><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
