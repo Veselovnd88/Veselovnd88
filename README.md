@@ -28,9 +28,6 @@ Passionate about develpment application with Java using modern stack and instrum
 <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="100" height="100">
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" width="100" height="100">
 <br>
-Best IDE:<br>
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<br>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=veselovnd88&show_icons=true&theme=slateorange )
 <br>
 My education (last passed trainings and cources):<br>
