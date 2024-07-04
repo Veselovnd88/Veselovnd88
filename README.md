@@ -30,7 +30,3 @@ Passionate about develpment application with Java using modern stack and instrum
 <br>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=veselovnd88&show_icons=true&theme=slateorange )
 <br>
-My education (last passed trainings and cources):<br>
-[Certificate: Managing Liquibase Changelogs](https://github.com/Veselovnd88/Veselovnd88/files/13202085/certification-Managing-Liquibase-Changelogs-Veselovnd.pdf) <br>
-[Certificate: Fundamentals of Liquibase](https://github.com/Veselovnd88/Veselovnd88/files/13066973/certification-Fundamentals-of-Liquibase-Veselovnd.pdf) <br>
-[Certificate: Introduction to Liquibase Test Harness](https://github.com/Veselovnd88/Veselovnd88/files/13195594/certification-Introduction-to-Liquibase-Test-Harness-Veselovnd.pdf)
